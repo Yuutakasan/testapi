@@ -3,7 +3,8 @@ openapi: 3.0.2
 info:
   title: aa
   version: 1.0.0
-  description: aa
+  description: test
 paths:
   /aaaaa:
     summary: test
+    description: test2
